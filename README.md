@@ -1,11 +1,3 @@
-# Hi, I'm Peon 👋
-
-**Game Developer** · Godot / Unity  
-Gameplay, UI, and game feel — I build the parts players touch.  
-게임 개발자 Peon입니다. 플레이 로직, UI, 연출을 만듭니다.
-
----
-
 ## 🎮 Featured — Loadout Rush
 
 <a href="https://store.steampowered.com/app/5021730/Loadout_Rush/">
@@ -21,19 +13,3 @@ Cram items into a grid backpack, buff them with neighbor synergies, and merge th
 - **Engine / 엔진:** Godot
 
 [![Wishlist on Steam](https://img.shields.io/badge/Wishlist_on-Steam-1b2838?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/5021730/Loadout_Rush/)
-
----
-
-## 🛠 Tech
-
-**Engine** &nbsp;
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-
-**Language** &nbsp;
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-## 📫 Contact / 연락
-
-- ✉️ [excalet007@gmail.com](mailto:excalet007@gmail.com)
-- 🕹 itch.io — [excalet007](https://itch.io/profile/excalet007)
