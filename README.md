@@ -21,6 +21,6 @@ A backpack-building action roguelike. · *Coming Q4 2026 on Steam*
 
 A dice-themed puzzle game where you build your way to the goal.
 
-- **Role:** Art · Design
+- **Role:** Art
 
 [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://semerus.itch.io/dice-valley)
